@@ -49,4 +49,4 @@ Join us if you would like to make a better world through a shared language and i
 
 [(Back to top)](#table-of-contents)
 
-Unless otherwise specified, all work in this organization is assumed to be licensed under the GNU General Public License (GPL) Version 3 - Please have a look at the [LICENSE.md](LICENSE.md) for more details.
+Unless otherwise specified, all work in this organization is assumed to be licensed under the GNU General Public License (GPL) Version 3 - Please have a look at the [LICENSE.md](LICENSE) for more details.
