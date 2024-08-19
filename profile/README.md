@@ -10,11 +10,18 @@ Join us if you would like to make a better world through a shared language and i
 
 # Table of Contents
 
+- [Documentation](#documentation)
 - [Community](#community)
 - [Tools](#tools)
 - [Projects](#projects)
 - [Contributing](#contributing)
 - [License](#license)
+
+# Documentation
+
+- [Home Page](https://hisyeo.github.io)
+- [Dictionary](https://www.appsheet.com/start/b51571b2-bba5-4b6e-9055-207a8d59ad4e)
+- [Kennings](https://hisyeo-kennings.glitch.me/)
 
 # Community
 
