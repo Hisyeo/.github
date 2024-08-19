@@ -1,4 +1,6 @@
-## Hi there 👋
+## Pioli 👋
+
+This is the GitHub organization for the Hisyëö Institute.
 
 <!--
 
