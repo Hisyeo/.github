@@ -1,14 +1,39 @@
-## Pioli 👋
+## pioli 👋
 
-This is the GitHub organization for the Hisyëö Institute.
+Welcome to the **Hisyëö Institute**, the official organization that supports the development, publication, and proselytization of the Hisyëö language and culture. We seek to grow a community of likeminded individuals around the world who participate in online and local Hisyëö events that seek to be:
 
-<!--
+- Safe,
+- Uplifting, and
+- Cerebral
 
-**Here are some ideas to get you started:**
+Join us if you would like to make a better world through a shared language and its community.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Table of Contents
+
+- [Community](#community)
+- [Tools](#tools)
+- [Projects](#projects)
+- [Contributing](#contributing)
+- [License](#license)
+
+# Community
+
+[(Back to top)](#table-of-contents)
+
+# Tools
+
+[(Back to top)](#table-of-contents)
+
+# Projects
+
+[(Back to top)](#table-of-contents)
+
+# Contributing
+
+[(Back to top)](#table-of-contents)
+
+# License
+
+[(Back to top)](#table-of-contents)
+
+Unless otherwise specified, all work in this organization is assumed to be licensed under the GNU General Public License (GPL) Version 3 - Please have a look at the [LICENSE.md](LICENSE.md) for more details.
