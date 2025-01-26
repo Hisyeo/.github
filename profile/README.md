@@ -27,7 +27,7 @@ Join us if you would like to make a better world through a shared language and i
 
 [(Back to top)](#table-of-contents)
 
-- [POKÖHİS- Poxö Kon Köto Yë Hisyëö (Discord)](https://discord.gg/48mUPRan9G)
+- [Discord](https://discord.gg/48mUPRan9G)
 - Reddit
 - Telegram
 - Whatsapp
