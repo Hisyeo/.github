@@ -28,7 +28,7 @@ Join us if you would like to make a better world through a shared language and i
 [(Back to top)](#table-of-contents)
 
 - [Discord](https://discord.gg/48mUPRan9G)
-- Reddit
+- [Reddit](https://www.reddit.com/r/hisyeo/)
 - Telegram
 - Whatsapp
 - 
