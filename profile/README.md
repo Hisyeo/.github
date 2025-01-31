@@ -29,9 +29,7 @@ Join us if you would like to make a better world through a shared language and i
 
 - [Discord](https://discord.gg/48mUPRan9G)
 - [Reddit](https://www.reddit.com/r/hisyeo/)
-- Telegram
-- Whatsapp
-- 
+- [Mastodon](https://mastodon.social/@hisyeo)
 
 # Tools
 
