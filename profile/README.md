@@ -1,6 +1,6 @@
-## pioli 👋
+## bîolî 👋
 
-Welcome to the **Hisyëö Institute**, the official organization that supports the development, publication, and proselytization of the Hisyëö language and culture. We seek to grow a community of likeminded individuals around the world who participate in online and local Hisyëö events that seek to be:
+Welcome to the **Hîsyêô Institute**, the official organization that supports the development, publication, and proselytization of the Hisyëö language and culture. We seek to grow a community of likeminded individuals around the world who participate in online and local Hisyëö events that seek to be:
 
 - Safe,
 - Uplifting, and
