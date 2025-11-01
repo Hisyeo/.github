@@ -29,12 +29,14 @@ Join us if you would like to make a better world through a shared language and i
 
 - [Discord](https://discord.gg/48mUPRan9G)
 - [Reddit](https://www.reddit.com/r/hisyeo/)
-- [Mastodon](https://mastodon.social/@hisyeo)
+- [Mastodon](https://conlang.network/@hisyeo)
 - [Matrix](https://matrix.to/#/#hisyeo:matrix.org)
 
 # Tools
 
 [(Back to top)](#table-of-contents)
+
+- [yôn Mocko](https://hisyeo.github.io/mocko)
 
 # Projects
 
