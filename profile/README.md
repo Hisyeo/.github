@@ -37,6 +37,7 @@ Join us if you would like to make a better world through a shared language and i
 [(Back to top)](#table-of-contents)
 
 - [yôn Mocko](https://hisyeo.github.io/mocko)
+- [yôn Gicîdolû](https://hisyeo.github.io/gjcidlu)
 
 # Projects
 
